@@ -12,4 +12,4 @@
 <h1>Adventures of Link</h1>
     <p>i really enjoyed the creativity of this project because it forced me to think outside the box
 
-    
+# Issues
