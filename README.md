@@ -13,3 +13,7 @@
     <p>I really enjoyed the creativity of this project because it forced me to think outside the box
 
 # Issues
+  <ul>
+    <li>Directions</li>
+    <li>Starting up git commands<li>
+    
